@@ -1,6 +1,6 @@
 # Resumen
 Es una pavada para practicar algo de criptografia, de paso ver como hacer la autenticacion y eso. 
-
+Está sin terminar.
 ## Material
 
 ### Estrictamente, criptografia
